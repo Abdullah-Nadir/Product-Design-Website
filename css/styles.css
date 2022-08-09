@@ -1,0 +1,84 @@
+body {
+  background-color: #DDDDDD;
+  color: #541212;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 3% 7%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 4rem;
+}
+
+.navbar-collapse {
+  padding-right: 40px;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+/* title section */
+.title {
+  padding: 7% 15%;
+}
+
+.title-text {
+  padding: 0 20% 3%;
+  line-height: 2;
+}
+
+.title-heading {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.title-para {
+  width: 80%;
+  margin-bottom: 40px;
+}
+
+.title-img {
+  text-align: right;
+  margin-top: 30px;
+  padding-right: 235px;
+}
+
+.juice-img {
+  width: 55%;
+}
+
+/* footer section */
+.footer {
+  padding: 2% 5% 2%;
+  text-align: right;
+  background-color: #dc3545;
+}
+
+.footer-icon {
+  padding: 0 1%;
+}
+
+/* MEDIA QUERY */
+
+@media (max-width: 900px) {
+  .title {
+    text-align: center;
+  }
+  .title-para {
+    width: 100%;
+  }
+  .title-img {
+    text-align: center;
+    padding-right: 0;
+  }
+}

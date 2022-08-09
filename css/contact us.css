@@ -1,0 +1,82 @@
+body {
+  background-color: #DDDDDD;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fredoka One', cursive;
+  color: #541212;
+}
+
+p {
+  color: #541212;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 3% 7%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 4rem;
+}
+
+.navbar-collapse {
+  padding-right: 40px;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+/* title section */
+.title {
+  padding: 5% 15% 8%;
+}
+
+.title-text {
+  padding-right: 70px;
+  line-height: 2;
+}
+
+.title-heading {
+  margin-bottom: 30px;
+}
+
+.title-icon {
+  padding: 5% 2%;
+}
+
+.social-media {
+  margin: 20% 0 5%;
+}
+
+/* Right Sight section */
+.right-heading {
+  margin: 3% 0;
+}
+
+.right-label {
+  margin: 3% 0;
+}
+
+.right-input {
+  margin: 3% 0;
+}
+
+.right-button {
+  margin: 3% 0;
+}
+
+/* footer section */
+.footer {
+  padding: 2% 5% 2%;
+  text-align: right;
+  background-color: #dc3545;
+}
+
+.footer-icon {
+  padding: 0 1%;
+}

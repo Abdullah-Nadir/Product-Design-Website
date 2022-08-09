@@ -1,0 +1,80 @@
+body {
+  background-color: #DDDDDD;
+  color: #541212;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 3% 7%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 4rem;
+}
+
+.navbar-collapse {
+  padding-right: 40px;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+/* title section */
+.title {
+  padding: 5% 15% 8%;
+}
+
+.title-text {
+  padding-right: 70px;
+  line-height: 2;
+}
+
+.title-heading {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.title-img {
+  padding-top: 80px;
+}
+
+/* Testimonials Section */
+.testimonials {
+  text-align: center;
+  margin: 3% 15% 7%;
+  line-height: 1.5;
+}
+
+.testimonial-heading {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.testimonial-pic {
+  width: 60%;
+  margin-bottom: 30px;
+}
+
+.testimonial {
+  padding: 0 10px;
+}
+
+/* footer section */
+.footer {
+  padding: 2% 5% 2%;
+  text-align: right;
+  background-color: #dc3545;
+}
+
+.footer-icon {
+  padding: 0 1%;
+}
